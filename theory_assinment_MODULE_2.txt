@@ -1,0 +1,62 @@
+					MODULE:2 (CSS and CSS3)
+
+
+Question-1.What are the benefits of using CSS? 
+Answer.
+
+Question-2.What are the disadvantages of CSS? 
+Answer.
+
+Question-3.What is the difference between CSS2 and CSS3? 
+Answer.
+
+Question-4.Name a few CSS style components
+Answer.
+
+Question-5.What do you understand by CSS opacity?
+Answer.
+
+Question-6.How can the background color of an element be changed?
+Answer.
+
+Question-7.How can image repetition of the backup be controlled? 
+Answer.
+
+Question-8.What is the use of the background-position property? 
+Answer.
+
+Question-9.Which property controls the image scroll in the background? 
+Answer.
+
+Question-10.Why should background and color be used as separate properties? 
+Answer.
+
+Question-11.How to center block elements using CSS1?
+Answer.
+
+Question-12.How to maintain the CSS specifications? 
+Answer.
+
+Question-13.What are the ways to integrate CSS as a web page?
+Answer.
+
+Question-14.What is embedded style sheets? 
+Answer.
+
+Question-15.What are the external style sheets? 
+Answer.
+
+Question-16.What are the advantages and disadvantages of using external style sheets? 
+Answer.
+
+Question-17.What is the meaning of the CSS selector? 
+Answer.
+
+Question-18.What are the media types allowed by CSS? 
+Answer.
+
+Question-19.What is the rule set? 
+Answer.
+
+Question-20.Create Layouts 
+Answer.

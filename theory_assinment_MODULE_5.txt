@@ -1,0 +1,11 @@
+				MODULE: 5 (JQuery Basic, Effects & Advance)
+
+
+Question-1: What is JQuery?
+Answer.
+
+Question-1:How to Apply CSS Using JQuery, How to Add Class and Remove Class in JQuery,JQuery Animation?
+Answer.
+
+Question-1:How to create slider with animation?
+Answer.

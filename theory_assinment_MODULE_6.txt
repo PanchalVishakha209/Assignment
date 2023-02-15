@@ -1,0 +1,30 @@
+				MODULE: 6 (Bootstrap Basic & Advance)
+Question-1.What are the advantages of Bootstrap?
+Answer.
+
+Question-2.What is a Bootstrap Container, and how does it work?
+Answer.
+
+Question-3.What are the default Bootstrap text settings?
+Answer.
+
+Question-4.What do you know about the Bootstrap Grid System?
+Answer.
+
+Question-5.What is the difference between Bootstrap 4 and Bootstrap 5
+Answer.
+
+Question-6.What is a Button Group, and what is the class for a basic Button Group?
+Answer.
+
+Question-7.How can you use Bootstrap to make thumbnails?
+Answer.
+
+Question-8.In Bootstrap 4, what is flexbox?
+Answer.
+
+Question-9.How can one create an alert in Bootstrap?
+Answer.
+
+Question-10.What is a bootstrap card and how would you create one?
+Answer.

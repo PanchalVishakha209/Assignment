@@ -1,0 +1,54 @@
+				MODULE: 4 (JavaScript Basic & DOM)
+
+
+Qustion-1. What is JavaScript?
+Answer.
+
+Qustion-2. What is the use of isNaN function?
+Answer.
+
+Qustion-3. What is negative Infinity?
+Answer.
+
+Qustion-4. Which company developed JavaScript?
+Answer.
+
+Qustion-5. What are undeclared and undefined variables?
+Answer.
+
+Qustion-6. Write the code for adding new elements dynamically?
+Answer.
+
+Qustion-7. What is the difference between ViewState and SessionState?
+Answer.
+
+Qustion-8.What is === operator?
+Answer.
+
+Qustion-9. How can the style/class of an element be changed?
+Answer.
+
+Qustion-10. How to read and write a file using JavaScript?
+Answer.
+
+Qustion-11. What are all the looping structures in JavaScript?
+Answer.
+
+Qustion-12. How can you convert the string of any base to an integer in JavaScript?
+Answer.
+
+Qustion-13. What is the function of the delete operator?
+Answer.
+
+Qustion-14. What are all the types of Pop up boxes available in JavaScript?
+Answer.
+
+Qustion-15. What is the use of Void (0)?
+Answer.
+
+Qustion-16. How can a page be forced to load another page in JavaScript?
+Answer.
+
+Qustion-17. What are the disadvantages of using innerHTML in JavaScript? 
+Answer.
+
