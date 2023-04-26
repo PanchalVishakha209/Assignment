@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\vishakhagithub\Projects\myapp>npm start
+
+
+changes in the project
+
+1. change the name : Grab a Car.
+
+2. add sign in , register page.
+
+3.change the curancy , city name (remove the dropdown list)
+
+4. add find details.
+
+5. some changes in footer.
+
+6.changes in navbar our team.
+
