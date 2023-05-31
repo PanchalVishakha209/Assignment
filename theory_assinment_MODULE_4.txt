@@ -1,54 +1,95 @@
-				MODULE: 4 (JavaScript Basic & DOM)
+			MODULE: 4 (JavaScript Basic & DOM)
 
 
 Qustion-1. What is JavaScript?
-Answer.
+Answer.JavaScript is a dynamic computer programming language. 
+             It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
+	-JavaScript is a lightweight, interpreted programming language.
+	-Designed for creating network-centric applications.
+	-Complementary to and integrated with Java.
+	-Complementary to and integrated with HTML.
+	-Open and cross-platform
 
 Qustion-2. What is the use of isNaN function?
-Answer.
+Answer.The isNaN() function determines whether a value is NaN when converted to a number. 
+             Because coercion inside the isNaN() function can be surprising, you may alternatively want to use Number.isNaN() .
 
 Qustion-3. What is negative Infinity?
-Answer.
+Answer.NEGATIVE_INFINITY is a special numeric value that is returned when an arithmetic operation or mathematical function generates a negative value greater than the largest representable number in JavaScript (i.e., more negative than -Number. MAX_VALUE) . 
+             JavaScript displays the NEGATIVE_INFINITY value as -Infinity .
 
 Qustion-4. Which company developed JavaScript?
-Answer.
+Answer.Netscape 2
+            JavaScript / ECMAScript
+            JavaScript was invented by Brendan Eich in 1995. 
+            It was developed for Netscape 2, and became the ECMA-262 standard in 1997. 
+            After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser.
 
 Qustion-5. What are undeclared and undefined variables?
-Answer.
+Answer.Undeclared variables are those that have not been declared or defined in the current scope, while undefined variables are those that have been declared but not given a value. 
+             Understanding the difference between these two terms is crucial for writing correct and effective JavaScript code.
 
 Qustion-6. Write the code for adding new elements dynamically?
-Answer.
+Answer.Creation of new element: New elements can be created in JS by using the createElement() method.  
+
+	Syntax:
+
+	document.createElement("<tagName>");  
+	// Where <tagName> can be any HTML 
+	// tagName like div, ul, button, etc.
+
+	// newDiv element has been created
+	For Eg: let newDiv = document.createElement("div");
+	Once the element has been created, let’s move on to the setting of attributes of the newly created element
 
 Qustion-7. What is the difference between ViewState and SessionState?
-Answer.
+Answer.Session state is saved on the server, ViewState is saved in the page. 
+             Session state is usually cleared after a period of inactivity from the user (no request happened containing the session id in the request cookies). 
+             The view state is posted on subsequent post back in a hidden field.
 
 Qustion-8.What is === operator?
-Answer.
+Answer.The strict equality ( === ) operator checks whether its two operands are equal, returning a Boolean result. 
+             Unlike the equality operator, the strict equality operator always considers operands of different types to be different.
 
 Qustion-9. How can the style/class of an element be changed?
-Answer.
+Answer.Another way to alter the style of an element is by changing its class attribute. 
+             class is a reserved word in JavaScript, so in order to access the element's class, you use element. className .
 
 Qustion-10. How to read and write a file using JavaScript?
-Answer.
+Answer.file=fopen(getScriptPath(),0); The function fread() is used for reading the file content.
+             str = fread(file,flength(file) ; The function fwrite() is used to write the contents to the file.
+             file = fopen("c:\MyFile.txt", 3);// opens the file for writing.
 
 Qustion-11. What are all the looping structures in JavaScript?
-Answer.
+Answer.for - loops through a block of code a number of times.
+            for/in - loops through the properties of an object.
+            for/of - loops through the values of an iterable object.
+            while - loops through a block of code while a specified condition is true.
 
 Qustion-12. How can you convert the string of any base to an integer in JavaScript?
-Answer.
+Answer.To convert a string to an integer parseInt(), Number(), and Unary operator(+) function is used in javascript. 
+             parseInt() function returns Nan( not a number) when the string doesn't contain number. If a string with a number is sent, then only that number will be returned as the output.
 
 Qustion-13. What is the function of the delete operator?
-Answer.
+Answer.The delete operator removes a property from an object. 
+             If the property's value is an object and there are no more references to the object, the object held by that property is eventually released automatically.
 
 Qustion-14. What are all the types of Pop up boxes available in JavaScript?
-Answer.
+Answer.JavaScript has three kind of popup boxes: Alert box, Confirm box, and Prompt box.
 
 Qustion-15. What is the use of Void (0)?
-Answer.
+Answer.JavaScript void 0 means returning undefined (void) as a primitive value. 
+             You might come across the term “JavaScript:void(0)” while going through HTML documents. 
+             It is used to prevent any side effects caused while inserting an expression in a web page.
 
 Qustion-16. How can a page be forced to load another page in JavaScript?
-Answer.
+Answer.In JavaScript, we can use window. location object to force a page to load another page. 
+             We can use the location object to set the URL of a new page.
 
 Qustion-17. What are the disadvantages of using innerHTML in JavaScript? 
-Answer.
+Answer.=>Event handlers attached to any DOM element are preserved.
+             =>Replacement is done everywhere.
+             =>It is not possible to append innerHTML.
+             =>Breaks the document.
+             =>Used for Cross-site Scripting.
 
